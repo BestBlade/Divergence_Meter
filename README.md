@@ -25,14 +25,14 @@
   * 9.顶部装饰电容4：RXEF090自恢复保险丝，并不是电容
   * 9.Top Layer Decorative Capacitor 4：RXEF090 self-recovery fuse, not a capacitor
   * 10.顶部装饰电阻1：KOA1/4W金属膜电阻，阻值随意
-  * 10.Top Decorative Resistor 1:KOA1/4W metal film resistor, resistance value at will
+  * 10.Top Layer Decorative Resistor 1:KOA1/4W metal film resistor, resistance value at will
   * 11.顶部装饰电阻2：KOA1/4W碳膜电阻，阻值随意
-  * 11.Top Decorative Resistor 1:KOA1/4W carbon film resistor, resistance value at will
+  * 11.Top Layer Decorative Resistor 1:KOA1/4W carbon film resistor, resistance value at will
   * 12.顶部装饰IC1：DIP-4
-  * 12.Top Decoration IC1: DIP-4
+  * 12.Top Layer Decoration IC1: DIP-4
   * 13.顶部装饰IC2：DIP-8
-  * 12.Top Decoration IC2: DIP-8
+  * 12.Top Layer Decoration IC2: DIP-8
   * 14.顶部装饰六角金属柱：M2.5，H = 7.0mm
-  * 14.Top Decorative Hexagonal Metal Column: M2.5, H = 7.0mm
+  * 14.Top Layer Decorative Hexagonal Metal Column: M2.5, H = 7.0mm
 ### 3.电路设计
 ---等待更新---
