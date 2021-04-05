@@ -33,6 +33,6 @@
   * 13.顶部装饰IC2：DIP-8
   * 12.Top Decoration IC2: DIP-8
   * 14.顶部装饰六角金属柱：M2.5，H = 7.0mm
-  * 14. Top Decorative Hexagonal Metal Column: M2.5, H = 7.0mm
+  * 14.Top Decorative Hexagonal Metal Column: M2.5, H = 7.0mm
 ### 3.电路设计
 ---等待更新---
