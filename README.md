@@ -20,7 +20,7 @@
   * 6.Top Layer Decorative Capacitor 1：Ceramic chip capacitors,Capacity at will
   * 7.顶部装饰电容2：RwbyCon电解电容，YXF10V100uF，直径D = 5.0mm，高度H = 11.0mm，引脚间距F = 2.0mm,可以使用其他5x11尺寸电容替代
   * 7.Top Layer Decorative Capacitor 2：RwbyCon Electrolytic Capacitor,YXF10V100uF,Diameter D = 5.0mm, Height H = 11.0mm, Pin spacing F = 2.0mm,Other 5x11 size capacitors can be used instead
-  * 8.顶部装饰电容3：PowerStor法拉电容，C-TYPE0.22f,直径D = 13.0mm，引脚间距F = 5.0mm
+  * 8.顶部装饰电容3：PowerStor法拉电容，C-TYPE0.22f，直径D = 13.0mm，引脚间距F = 5.0mm
   * 8.Top Layer Decorative Capacitor 3：PowerStor Faraday capacitor, C-TYPE,0.22f, Diameter D = 13.0mm, Pin spacing F = 5.0mm
   * 9.顶部装饰电容4：RXEF090自恢复保险丝，并不是电容
   * 9.Top Layer Decorative Capacitor 4：RXEF090 self-recovery fuse, not a capacitor
