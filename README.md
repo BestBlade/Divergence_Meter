@@ -11,7 +11,7 @@
   * 5.使用升压模块驱动辉光管
   * 5.Using a booster module to drive the nixel tubes
 ### 2.选材/Material Selection
-  * 1.辉光管/Nixel Tubes:NL-5441A
+  * 1.辉光管/Nixie Tubes:NL-5441A
   * 2.单片机/Microcontroller:STM32F103ZET6
   * 3.时钟模块/Time module:DS3231
   * 4.蓝牙模块/Bluetooth module:HC08
