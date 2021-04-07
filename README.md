@@ -35,4 +35,5 @@
   * 14.顶部装饰六角金属柱：M2.5，H = 7.0mm
   * 14.Top Layer Decorative Hexagonal Metal Column: M2.5, H = 7.0mm
 ### 3.电路设计
+  * Info of NL-5441A：http://www.swissnixie.com/tubes/NL5441A/
 ---等待更新---
